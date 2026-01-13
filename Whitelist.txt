@@ -1,4 +1,4 @@
 player | permanent
-Ablablawo | permanent
+hello | permanent
 PlayerThree | 7d
 PlayerFour | 30d

@@ -1,4 +1,4 @@
-Tbebisen | permanent
+player | permanent
 PlayerTwo | permanent
 PlayerThree | 7d
 PlayerFour | 30d
